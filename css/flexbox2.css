@@ -1,0 +1,60 @@
+
+.container-1{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+}
+
+
+A {
+	text-decoration: none;
+	color: black;
+}
+
+.container-1 div{
+    border: 1px #ccc solid;
+}
+
+
+.image-1{
+	flex:1;
+	background-color: white;
+	flex: 0 0 325px;
+    height: 370px;
+}
+
+.image-2{
+	flex:1;
+	background-color: white;
+	flex: 0 0 325px;
+	height: 370px;
+}
+
+.image-3{
+	flex:1;
+	background-color: white;
+	flex: 0 0 325px;
+	height: 370px;
+}
+
+.image-4{
+	flex:1;
+	background-color: white;
+	flex: 0 0 325px;
+	height: 370px;
+}
+
+.image-5{
+	flex:1;
+	background-color: white;
+	flex: 0 0 325px;
+	height: 370px;
+}
+
+.image-6{
+	flex:1;
+	background-color: white;
+	flex: 0 0 325px;
+	height: 370px;
+}

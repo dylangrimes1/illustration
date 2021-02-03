@@ -1,0 +1,62 @@
+
+.container-1{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+}
+
+
+A {
+	text-decoration: none;
+	color: black;
+}
+
+.container-1 div{
+	border: 1px #ccc solid;
+	padding: 10px;
+	margin: 10px;
+	width: 50px
+}
+
+
+
+.student-1:hover{
+	background-color: #f2f2ff;
+}
+.student-2:hover{
+	background-color: #f2f2ff;
+}
+.student-3:hover{
+	background-color: #f2f2ff;
+}
+.student-4:hover{
+	background-color: #f2f2ff;
+}
+.student-5:hover{
+	background-color: #f2f2ff;
+}
+.student-6:hover{
+	background-color: #f2f2ff;
+}
+
+.student-1{
+	flex:1;
+	background-color: white;
+	flex: 0 0 600px;
+	height: 500px;
+}
+
+.student-2{
+	flex:1;
+	background-color: white;
+	flex: 0 0 600px;
+	height: 500px;
+}
+
+.student-3{
+	flex:1;
+	background-color: white;
+	flex: 0 0 600px;
+	height: 500px;
+}
